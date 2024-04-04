@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 - 💼 Full Stack Developer
 - 🔭 I’m currently working on [Medcom Bridge](https://medcomportal.azurewebsites.net/)
 - 🌱 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL, Bootstrap, JQuery, Ajax, React.js, Asp.NET MVC,C#
-- ✨ Completed Full Stack Development at NxT Wave
 - 🎓 Pursuing Bachelor's in Computer Science & Information Technology
 
 ## Tools and Languages
