@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Stored Procedures](https://img.shields.io/badge/Stored_Procedures-FFA500?style=flat&logo=sql&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat&logo=.net&logoColor=white)
 
 
 
