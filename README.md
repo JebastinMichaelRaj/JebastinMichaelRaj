@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 
 ## About Me
 - 💼 Full Stack Developer
-- 🔭 I’m currently working on [Medcom Bridge](https://medcomportal.azurewebsites.net/)
-- 🌱 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL, Bootstrap, JQuery, Ajax, React.js, Asp.NET MVC,C#
+- 🔭 I’m currently working on [Medcom Bridge](https://medcomportal.azurewebsites.net/) and [ACA306](https://medcomacabeta-daejadecfva2bjek.eastus-01.azurewebsites.net/Account/Login?ReturnUrl=%2F)
+- 🌱 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, Bootstrap, JQuery, Ajax, React.js, Asp.NET MVC,>NET Core 8,C#,Node.js,SQL Server 2022,mongoDB
 - 🎓 Completed Bachelor's in Computer Science & Information Technology
 
 ## Tools and Languages
