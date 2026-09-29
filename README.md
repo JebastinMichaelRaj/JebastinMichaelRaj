@@ -19,12 +19,14 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![Ajax](https://img.shields.io/badge/Ajax-0098FF?style=flat&logo=ajax&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-FFA500?style=flat&logo=sql&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat&logo=.net&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Stored Procedures](https://img.shields.io/badge/Stored_Procedures-FFA500?style=flat&logo=sql&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
-![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![Mongodb](https://img.shields.io/badge/Mongodb-FFA500?style=flat&logo=sql&logoColor=white)
 
 
 
